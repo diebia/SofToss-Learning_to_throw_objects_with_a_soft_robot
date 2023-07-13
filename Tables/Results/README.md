@@ -7,3 +7,4 @@
 - **SVI**: Quantitative analysis of the trajectories recorded related to Deep reinforcement learning controller in the partial actuation scenario
 - **SVII**: Quantitative analysis of the trajectories recorded related to Optimization-based controller in the complete actuation scenario
 - **SVIII**: Errors of the RL agent in the direct model
+- **SIX**: Comparison of RL agents in object-specific direct models
